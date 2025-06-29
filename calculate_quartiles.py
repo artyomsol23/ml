@@ -1,6 +1,4 @@
 import numpy as np
-from typing import List, Dict, Union
-
 
 def calculate_quartiles(data: list[float]):
     if not data:
